@@ -12,6 +12,7 @@ body {
 #envelope-container {
     text-align: center;
     cursor:pointer;
+    color: #C3D9FF
 }
 
 @keyframes pulse {
